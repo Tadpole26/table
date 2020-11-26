@@ -2,451 +2,452 @@
 <!-- 被2012 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
 <!--
 initial(初始值)                        poison(毒抗)
-growth(成长率)                         benumb(麻抗)
-physical(体力)                         sleep(睡抗)
-wrist(腕力)                            landification(石抗)
-staying(耐力)                          wine(酒抗)
-speed(速度)                            chaos(混抗)
-earth(地)                              violence(暴击率)
-water(水)                              revolt(反击率)
+growth(成长率) 						   benumb(麻抗)
+loyal (忠诚度)                         sleep(睡抗)
+physical(体力)                         landification(石抗)
+wrist(腕力)                            wine(酒抗)
+staying(耐力)                          chaos(混抗)
+speed(速度)                            violence(暴击率)
+earth(地)                              revolt(反击率)
+water(水)                              
 fire(火)
 wind(风)
  -->
 <card_data>
 	<hero card_id="1">
-		<info tag="main" card_name="多鲁宝"  card_race="海主人系" initial="24" growth="4.5" physical="32" wrist="40" staying="25" speed="16" earth="0" water="50" fire="50" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
+		<info tag="main" card_name="多鲁宝"  card_race="海主人系" initial="24" growth="4.5" loyal="100" physical="32" wrist="40" staying="25" speed="16" earth="0" water="50" fire="50" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="2">
-		<info tag="main" card_name="海主人"  card_race="海主人系" initial="20" growth="4.5" physical="34" wrist="36" staying="28" speed="14" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
+		<info tag="main" card_name="海主人"  card_race="海主人系" initial="20" growth="4.5" loyal="100" physical="34" wrist="36" staying="28" speed="14" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="3">
-		<info tag="main" card_name="姆伊"  card_race="海主人系" initial="20" growth="4.5" physical="38" wrist="36" staying="23" speed="14" earth="0" water="100" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
+		<info tag="main" card_name="姆伊"  card_race="海主人系" initial="20" growth="4.5" loyal="100" physical="38" wrist="36" staying="23" speed="14" earth="0" water="100" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="4">
-		<info tag="main" card_name="邦奇"  card_race="海主人系" initial="22" growth="4.5" physical="35" wrist="38" staying="25" speed="14" earth="0" water="80" fire="20" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
+		<info tag="main" card_name="邦奇"  card_race="海主人系" initial="22" growth="4.5" loyal="100" physical="35" wrist="38" staying="25" speed="14" earth="0" water="80" fire="20" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="5">
-		<info tag="main" card_name="卡拉卡利"  card_race="茄子系" initial="17" growth="4.5" physical="15" wrist="23" staying="23" speed="26" earth="70" water="0" fire="0" wind="30" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="卡拉卡利"  card_race="茄子系" initial="17" growth="4.5" loyal="100" physical="15" wrist="23" staying="23" speed="26" earth="70" water="0" fire="0" wind="30" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="6">
-		<info tag="main" card_name="鲍"  card_race="茄子系" initial="17" growth="4.5" physical="21" wrist="38" staying="22" speed="30" earth="20" water="0" fire="0" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="鲍"  card_race="茄子系" initial="17" growth="4.5" loyal="100" physical="21" wrist="38" staying="22" speed="30" earth="20" water="0" fire="0" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="7">
-		<info tag="main" card_name="巴克"  card_race="茄子系" initial="20" growth="4.5" physical="22" wrist="42" staying="21" speed="30" earth="0" water="0" fire="40" wind="60" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="巴克"  card_race="茄子系" initial="20" growth="4.5" loyal="100" physical="22" wrist="42" staying="21" speed="30" earth="0" water="0" fire="40" wind="60" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="8">
-		<info tag="main" card_name="卡克尔"  card_race="茄子系" initial="18" growth="4.5" physical="25" wrist="39" staying="23" speed="25" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="卡克尔"  card_race="茄子系" initial="18" growth="4.5" loyal="100" physical="25" wrist="39" staying="23" speed="25" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="9">
-		<info tag="main" card_name="可利多洛斯"  card_race="水龙系" initial="19" growth="4.5" physical="25" wrist="38" staying="28" speed="18" earth="70" water="30" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="可利多洛斯"  card_race="水龙系" initial="19" growth="4.5" loyal="100" physical="25" wrist="38" staying="28" speed="18" earth="70" water="30" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="10">
-		<info tag="main" card_name="兰贝鲁斯"  card_race="水龙系" initial="21" growth="4.5" physical="28" wrist="38" staying="23" speed="20" earth="0" water="70" fire="30" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="兰贝鲁斯"  card_race="水龙系" initial="21" growth="4.5" loyal="100" physical="28" wrist="38" staying="23" speed="20" earth="0" water="70" fire="30" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="11">
-		<info tag="main" card_name="邦洛洛克斯"  card_race="水龙系" initial="22" growth="4.5" physical="27" wrist="37" staying="27" speed="18" earth="40" water="60" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="邦洛洛克斯"  card_race="水龙系" initial="22" growth="4.5" loyal="100" physical="27" wrist="37" staying="27" speed="18" earth="40" water="60" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="12">
-		<info tag="main" card_name="诺斯多洛斯"  card_race="水龙系" initial="24" growth="4.5" physical="24" wrist="41" staying="21" speed="22" earth="0" water="0" fire="90" wind="10" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="诺斯多洛斯"  card_race="水龙系" initial="24" growth="4.5" loyal="100" physical="24" wrist="41" staying="21" speed="22" earth="0" water="0" fire="90" wind="10" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="13">
-		<info tag="main" card_name="卡卡金宝"  card_race="毒蛙系" initial="25" growth="4.5" physical="31" wrist="36" staying="31" speed="13" earth="0" water="20" fire="80" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="卡卡金宝"  card_race="毒蛙系" initial="25" growth="4.5" loyal="100" physical="31" wrist="36" staying="31" speed="13" earth="0" water="20" fire="80" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="14">
-		<info tag="main" card_name="奇娜"  card_race="毒蛙系" initial="24" growth="4.5" physical="24" wrist="41" staying="21" speed="22" earth="0" water="0" fire="90" wind="10" poison="0" benumb="0" sleep="0" landification="20" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="奇娜"  card_race="毒蛙系" initial="24" growth="4.5" loyal="100" physical="24" wrist="41" staying="21" speed="22" earth="0" water="0" fire="90" wind="10" poison="0" benumb="0" sleep="0" landification="20" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="15">
-		<info tag="main" card_name="奇卡洛斯"  card_race="毒蛙系" initial="28" growth="4.5" physical="30" wrist="32" staying="30" speed="19" earth="30" water="0" fire="0" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="奇卡洛斯"  card_race="毒蛙系" initial="28" growth="4.5" loyal="100" physical="30" wrist="32" staying="30" speed="19" earth="30" water="0" fire="0" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="16">
-		<info tag="main" card_name="奇卡宝斯"  card_race="毒蛙系" initial="25" growth="4.5" physical="30" wrist="34" staying="28" speed="19" earth="0" water="0" fire="30" wind="70" poison="20" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="奇卡宝斯"  card_race="毒蛙系" initial="25" growth="4.5" loyal="100" physical="30" wrist="34" staying="28" speed="19" earth="0" water="0" fire="30" wind="70" poison="20" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="17">
-		<info tag="main" card_name="拉伊霍恩"  card_race=" 羚羊系" initial="30" growth="4.5" physical="28" wrist="42" staying="22" speed="27" earth="50" water="50" fire="0" wind="0" poison="0" benumb="0" sleep="5" landification="5" wine="5" chaos="5" violence="0" revolt="5"/>
+		<info tag="main" card_name="拉伊霍恩"  card_race=" 羚羊系" initial="30" growth="4.5" loyal="100" physical="28" wrist="42" staying="22" speed="27" earth="50" water="50" fire="0" wind="0" poison="0" benumb="0" sleep="5" landification="5" wine="5" chaos="5" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="18">
-		<info tag="main" card_name="摩娜西普"  card_race=" 羚羊系" initial="25" growth="4.5" physical="27" wrist="41" staying="19" speed="30" earth="0" water="0" fire="0" wind="100" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="摩娜西普"  card_race=" 羚羊系" initial="25" growth="4.5" loyal="100" physical="27" wrist="41" staying="19" speed="30" earth="0" water="0" fire="0" wind="100" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="19">
-		<info tag="main" card_name="卡伊霍恩"  card_race=" 羚羊系" initial="28" growth="4.5" physical="27" wrist="43" staying="18" speed="29" earth="0" water="0" fire="80" wind="20" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="卡伊霍恩"  card_race=" 羚羊系" initial="28" growth="4.5" loyal="100" physical="27" wrist="43" staying="18" speed="29" earth="0" water="0" fire="80" wind="20" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="20">
-		<info tag="main" card_name="布伊德"  card_race=" 羚羊系" initial="26" growth="4.5" physical="28" wrist="42" staying="19" speed="28" earth="0" water="0" fire="0" wind="80" poison="20" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="布伊德"  card_race=" 羚羊系" initial="26" growth="4.5" loyal="100" physical="28" wrist="42" staying="19" speed="28" earth="0" water="0" fire="0" wind="80" poison="20" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="21">
-		<info tag="main" card_name="邦达霍恩"  card_race=" 羚羊系" initial="30" growth="4.5" physical="28" wrist="43" staying="22" speed="28" earth="0" water="0" fire="70" wind="30" poison="5" benumb="5" sleep="5" landification="5" wine="5" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="邦达霍恩"  card_race=" 羚羊系" initial="30" growth="4.5" loyal="100" physical="28" wrist="43" staying="22" speed="28" earth="0" water="0" fire="70" wind="30" poison="5" benumb="5" sleep="5" landification="5" wine="5" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="22">
-		<info tag="main" card_name="伊夫霍恩"  card_race=" 羚羊系" initial="27" growth="4.5" physical="22" wrist="26" staying="28" speed="30" earth="70" water="0" fire="0" wind="30" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
+		<info tag="main" card_name="伊夫霍恩"  card_race=" 羚羊系" initial="27" growth="4.5" loyal="100" physical="22" wrist="26" staying="28" speed="30" earth="70" water="0" fire="0" wind="30" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="23">
-		<info tag="main" card_name="奇卡宝斯"  card_race="羚羊系" initial="25" growth="4.5" physical="30" wrist="34" staying="28" speed="19" earth="0" water="0" fire="30" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="奇卡宝斯"  card_race="羚羊系" initial="25" growth="4.5" loyal="100" physical="30" wrist="34" staying="28" speed="19" earth="0" water="0" fire="30" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="24">
-		<info tag="main" card_name="布莱兹"  card_race="羚羊系" initial="27" growth="4.5" physical="25" wrist="27" staying="25" speed="32" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
+		<info tag="main" card_name="布莱兹"  card_race="羚羊系" initial="27" growth="4.5" loyal="100" physical="25" wrist="27" staying="25" speed="32" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="25">
-		<info tag="main" card_name="布依伦斯"  card_race="羚羊系" initial="27" growth="4.5" physical="21" wrist="25" staying="24" speed="35" earth="0" water="0" fire="30" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
+		<info tag="main" card_name="布依伦斯"  card_race="羚羊系" initial="27" growth="4.5" loyal="100" physical="21" wrist="25" staying="24" speed="35" earth="0" water="0" fire="30" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="26">
-		<info tag="main" card_name="邦恩多斯"  card_race="雷龙系" initial="28" growth="4.5" physical="36" wrist="26" staying="25" speed="9" earth="0" water="0" fire="20" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="邦恩多斯"  card_race="雷龙系" initial="28" growth="4.5" loyal="100" physical="36" wrist="26" staying="25" speed="9" earth="0" water="0" fire="20" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="27">
-		<info tag="main" card_name="斯天多斯"  card_race="雷龙系" initial="28" growth="4.5" physical="36" wrist="24" staying="31" speed="6" earth="50" water="50" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="斯天多斯"  card_race="雷龙系" initial="28" growth="4.5" loyal="100" physical="36" wrist="24" staying="31" speed="6" earth="50" water="50" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="28">
-		<info tag="main" card_name="布拉奇多斯"  card_race="雷龙系" initial="24" growth="4.5" physical="34" wrist="30" staying="26" speed="6" earth="0" water="20" fire="80" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="布拉奇多斯"  card_race="雷龙系" initial="24" growth="4.5" loyal="100" physical="34" wrist="30" staying="26" speed="6" earth="0" water="20" fire="80" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="29">
-		<info tag="main" card_name="布林帖斯"  card_race="雷龙系" initial="26" growth="4.5" physical="36" wrist="24" staying="29" speed="7" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
+		<info tag="main" card_name="布林帖斯"  card_race="雷龙系" initial="26" growth="4.5" loyal="100" physical="36" wrist="24" staying="29" speed="7" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="30">
-		<info tag="main" card_name="里斯基"  card_race="兔子系" initial="17" growth="4.5" physical="19" wrist="16" staying="19" speed="23" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="里斯基"  card_race="兔子系" initial="17" growth="4.5" loyal="100" physical="19" wrist="16" staying="19" speed="23" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="31">
-		<info tag="main" card_name="克洛尔"  card_race="兔子系" initial="18" growth="4.5" physical="24" wrist="39" staying="17" speed="31" earth="0" water="40" fire="60" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="克洛尔"  card_race="兔子系" initial="18" growth="4.5" loyal="100" physical="24" wrist="39" staying="17" speed="31" earth="0" water="40" fire="60" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="32">
-		<info tag="main" card_name="克克尔"  card_race="兔子系" initial="30" growth="4.5" physical="44" wrist="45" staying="20" speed="37" earth="0" water="90" fire="10" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="克克尔"  card_race="兔子系" initial="30" growth="4.5" loyal="100" physical="44" wrist="45" staying="20" speed="37" earth="0" water="90" fire="10" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="33">
-		<info tag="main" card_name="克雷尔"  card_race="兔子系" initial="19" growth="4.5" physical="24" wrist="38" staying="19" speed="30" earth="60" water="40" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="克雷尔"  card_race="兔子系" initial="19" growth="4.5" loyal="100" physical="24" wrist="38" staying="19" speed="30" earth="60" water="40" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="34">
-		<info tag="main" card_name="达克尔"  card_race="拳王系" initial="20" growth="4.5" physical="29" wrist="39" staying="22" speed="20" earth="0" water="80" fire="20" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="达克尔"  card_race="拳王系" initial="20" growth="4.5" loyal="100" physical="29" wrist="39" staying="22" speed="20" earth="0" water="80" fire="20" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="35">
-		<info tag="main" card_name="特洛昆"  card_race="拳王系" initial="20" growth="4.5" physical="25" wrist="38" staying="26" speed="20" earth="70" water="0" fire="0" wind="30" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="特洛昆"  card_race="拳王系" initial="20" growth="4.5" loyal="100" physical="25" wrist="38" staying="26" speed="20" earth="70" water="0" fire="0" wind="30" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="36">
-		<info tag="main" card_name="尼可斯"  card_race="拳王系" initial="20" growth="4.5" physical="27" wrist="38" staying="26" speed="20" earth="40" water="60" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="尼可斯"  card_race="拳王系" initial="20" growth="4.5" loyal="100" physical="27" wrist="38" staying="26" speed="20" earth="40" water="60" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="37">
-		<info tag="main" card_name="阿哥亚"  card_race="拳王系" initial="20" growth="4.5" physical="27" wrist="42" staying="25" speed="21" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="阿哥亚"  card_race="拳王系" initial="20" growth="4.5" loyal="100" physical="27" wrist="42" staying="25" speed="21" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="38">
-		<info tag="main" card_name="柏克尔"  card_race="拳王系" initial="20" growth="4.5" physical="24" wrist="39" staying="23" speed="25" earth="0" water="0" fire="20" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="柏克尔"  card_race="拳王系" initial="20" growth="4.5" loyal="100" physical="24" wrist="39" staying="23" speed="25" earth="0" water="0" fire="20" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="39">
-		<info tag="main" card_name="布鲁宝"  card_race="布克系" initial="20" growth="4.5" physical="24" wrist="42" staying="25" speed="25" earth="0" water="0" fire="40" wind="60" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
+		<info tag="main" card_name="布鲁宝"  card_race="布克系" initial="20" growth="4.5" loyal="100" physical="24" wrist="42" staying="25" speed="25" earth="0" water="0" fire="40" wind="60" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="40">
-		<info tag="main" card_name="多洛加"  card_race="布克系" initial="21" growth="4.5" physical="27" wrist="44" staying="27" speed="21" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="多洛加"  card_race="布克系" initial="21" growth="4.5" loyal="100" physical="27" wrist="44" staying="27" speed="21" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="41">
-		<info tag="main" card_name="布克布克"  card_race="布克系" initial="25" growth="4.5" physical="28" wrist="42" staying="28" speed="21" earth="0" water="50" fire="50" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="布克布克"  card_race="布克系" initial="25" growth="4.5" loyal="100" physical="28" wrist="42" staying="28" speed="21" earth="0" water="50" fire="50" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="42">
-		<info tag="main" card_name="卡拉宝斯"  card_race="布克系" initial="19" growth="4.5" physical="30" wrist="38" staying="26" speed="18" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="卡拉宝斯"  card_race="布克系" initial="19" growth="4.5" loyal="100" physical="30" wrist="38" staying="26" speed="18" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="43">
-		<info tag="main" card_name="修宝"  card_race="布克系" initial="18" growth="4.5" physical="28" wrist="42" staying="28" speed="20" earth="80" water="20" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="修宝"  card_race="布克系" initial="18" growth="4.5" loyal="100" physical="28" wrist="42" staying="28" speed="20" earth="80" water="20" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="44">
-		<info tag="main" card_name="格尔格"  card_race="猩猩系" initial="27" growth="4.5" physical="26" wrist="41" staying="23" speed="20" earth="0" water="0" fire="90" wind="10" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="格尔格"  card_race="猩猩系" initial="27" growth="4.5" loyal="100" physical="26" wrist="41" staying="23" speed="20" earth="0" water="0" fire="90" wind="10" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="45">
-		<info tag="main" card_name="齐尔格尔顿"  card_race="猩猩系" initial="27" growth="4.5" physical="30" wrist="39" staying="23" speed="17" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="齐尔格尔顿"  card_race="猩猩系" initial="27" growth="4.5" loyal="100" physical="30" wrist="39" staying="23" speed="17" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="46">
-		<info tag="main" card_name="奇拉顿"  card_race="猩猩系" initial="23" growth="4.5" physical="30" wrist="38" staying="26" speed="16" earth="80" water="20" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="奇拉顿"  card_race="猩猩系" initial="23" growth="4.5" loyal="100" physical="30" wrist="38" staying="26" speed="16" earth="80" water="20" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="47">
-		<info tag="main" card_name="格尔顿"  card_race="猩猩系" initial="28" growth="4.5" physical="30" wrist="36" staying="28" speed="16" earth="100" water="0" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
+		<info tag="main" card_name="格尔顿"  card_race="猩猩系" initial="28" growth="4.5" loyal="100" physical="30" wrist="36" staying="28" speed="16" earth="100" water="0" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="48">
-		<info tag="main" card_name="威伯"  card_race="威威系" initial="20" growth="4.5" physical="22" wrist="36" staying="16" speed="31" earth="60" water="0" fire="0" wind="40" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="威伯"  card_race="威威系" initial="20" growth="4.5" loyal="100" physical="22" wrist="36" staying="16" speed="31" earth="60" water="0" fire="0" wind="40" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="49">
-		<info tag="main" card_name="乌卡鲁"  card_race="威威系" initial="26" growth="4.5" physical="36" wrist="24" staying="29" speed="7" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
+		<info tag="main" card_name="乌卡鲁"  card_race="威威系" initial="26" growth="4.5" loyal="100" physical="36" wrist="24" staying="29" speed="7" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="50">
-		<info tag="main" card_name="威威"  card_race="威威系" initial="17" growth="4.5" physical="26" wrist="36" staying="11" speed="31" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="威威"  card_race="威威系" initial="17" growth="4.5" loyal="100" physical="26" wrist="36" staying="11" speed="31" earth="30" water="70" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="51">
-		<info tag="main" card_name="乌宝宝"  card_race="威威系" initial="13" growth="4.5" physical="21" wrist="36" staying="13" speed="35" earth="30" water="0" fire="0" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="乌宝宝"  card_race="威威系" initial="13" growth="4.5" loyal="100" physical="21" wrist="36" staying="13" speed="35" earth="30" water="0" fire="0" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="52">
-		<info tag="main" card_name="帖拉格恩"  card_race="飞龙系" initial="27" growth="4.5" physical="23" wrist="41" staying="21" speed="31" earth="0" water="0" fire="20" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="帖拉格恩"  card_race="飞龙系" initial="27" growth="4.5" loyal="100" physical="23" wrist="41" staying="21" speed="31" earth="0" water="0" fire="20" wind="80" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="53">
-		<info tag="main" card_name="洛卡伦恩"  card_race="飞龙系" initial="26" growth="4.5" physical="24" wrist="40" staying="19" speed="27" earth="0" water="0" fire="80" wind="20" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="洛卡伦恩"  card_race="飞龙系" initial="26" growth="4.5" loyal="100" physical="24" wrist="40" staying="19" speed="27" earth="0" water="0" fire="80" wind="20" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="54">
-		<info tag="main" card_name="加宝格恩"  card_race="飞龙系" initial="24" growth="4.5" physical="26" wrist="40" staying="24" speed="28" earth="50" water="0" fire="0" wind="50" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="5"/>
+		<info tag="main" card_name="加宝格恩"  card_race="飞龙系" initial="24" growth="4.5" loyal="100" physical="26" wrist="40" staying="24" speed="28" earth="50" water="0" fire="0" wind="50" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="55">
-		<info tag="main" card_name="朵拉比斯"  card_race="飞龙系" initial="23" growth="4.5" physical="24" wrist="37" staying="18" speed="29" earth="0" water="0" fire="0" wind="100" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="朵拉比斯"  card_race="飞龙系" initial="23" growth="4.5" loyal="100" physical="24" wrist="37" staying="18" speed="29" earth="0" water="0" fire="0" wind="100" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="56">
-		<info tag="main" card_name="可可恩"  card_race="飞龙系" initial="28" growth="4.5" physical="26" wrist="42" staying="19" speed="30" earth="0" water="80" fire="20" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
+		<info tag="main" card_name="可可恩"  card_race="飞龙系" initial="28" growth="4.5" loyal="100" physical="26" wrist="42" staying="19" speed="30" earth="0" water="80" fire="20" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="57">
-		<info tag="main" card_name="多洛布斯"  card_race="犀牛系" initial="14" growth="4.5" physical="30" wrist="41" staying="29" speed="18" earth="100" water="0" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="多洛布斯"  card_race="犀牛系" initial="14" growth="4.5" loyal="100" physical="30" wrist="41" staying="29" speed="18" earth="100" water="0" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="58">
-		<info tag="main" card_name="多利凯拉"  card_race="犀牛系" initial="18" growth="4.5" physical="28" wrist="38" staying="30" speed="14" earth="70" water="30" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="多利凯拉"  card_race="犀牛系" initial="18" growth="4.5" loyal="100" physical="28" wrist="38" staying="30" speed="14" earth="70" water="30" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="59">
-		<info tag="main" card_name="贝恩达斯"  card_race="犀牛系" initial="16" growth="4.5" physical="32" wrist="36" staying="27" speed="14" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
+		<info tag="main" card_name="贝恩达斯"  card_race="犀牛系" initial="16" growth="4.5" loyal="100" physical="32" wrist="36" staying="27" speed="14" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="1" revolt="0"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="60">
-		<info tag="main" card_name="多利诺布斯"  card_race="犀牛系" initial="12" growth="4.5" physical="30" wrist="39" staying="26" speed="16" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
+		<info tag="main" card_name="多利诺布斯"  card_race="犀牛系" initial="12" growth="4.5" loyal="100" physical="30" wrist="39" staying="26" speed="16" earth="0" water="30" fire="70" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="61">
-		<info tag="main" card_name="鲁尼帖斯"  card_race="跳狗系" initial="22" growth="4.5" physical="28" wrist="40" staying="16" speed="21" earth="100" water="0" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="鲁尼帖斯"  card_race="跳狗系" initial="22" growth="4.5" loyal="100" physical="28" wrist="40" staying="16" speed="21" earth="100" water="0" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="62">
-		<info tag="main" card_name="多萨金格"  card_race="跳狗系" initial="19" growth="4.5" physical="31" wrist="42" staying="19" speed="24" earth="40" water="60" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="多萨金格"  card_race="跳狗系" initial="19" growth="4.5" loyal="100" physical="31" wrist="42" staying="19" speed="24" earth="40" water="60" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="63">
-		<info tag="main" card_name="呼拔拔"  card_race="跳狗系" initial="24" growth="4.5" physical="27" wrist="41" staying="14" speed="28" earth="0" water="0" fire="60" wind="40" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="呼拔拔"  card_race="跳狗系" initial="24" growth="4.5" loyal="100" physical="27" wrist="41" staying="14" speed="28" earth="0" water="0" fire="60" wind="40" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="64">
-		<info tag="main" card_name="拉奇鲁哥"  card_race="跳狗系" initial="23" growth="4.5" physical="22" wrist="26" staying="20" speed="26" earth="0" water="0" fire="100" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
+		<info tag="main" card_name="拉奇鲁哥"  card_race="跳狗系" initial="23" growth="4.5" loyal="100" physical="22" wrist="26" staying="20" speed="26" earth="0" water="0" fire="100" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="3"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="64">
-		<info tag="main" card_name="奇宝"  card_race="小鸡系" initial="20" growth="4.5" physical="19" wrist="38" staying="15" speed="37" earth="0" water="0" fire="80" wind="20" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="3" revolt="1"/>
+		<info tag="main" card_name="奇宝"  card_race="小鸡系" initial="20" growth="4.5" loyal="100" physical="19" wrist="38" staying="15" speed="37" earth="0" water="0" fire="80" wind="20" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="3" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="65">
-		<info tag="main" card_name="霍尔克"  card_race="小鸡系" initial="18" growth="4.5" physical="20" wrist="35" staying="17" speed="37" earth="30" water="0" fire="0" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="3" revolt="1"/>
+		<info tag="main" card_name="霍尔克"  card_race="小鸡系" initial="18" growth="4.5" loyal="100" physical="20" wrist="35" staying="17" speed="37" earth="30" water="0" fire="0" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="3" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="66">
-		<info tag="main" card_name="克克洛斯"  card_race="小鸡系" initial="20" growth="4.5" physical="20" wrist="36" staying="13" speed="39" earth="0" water="0" fire="0" wind="100" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="2"/>
+		<info tag="main" card_name="克克洛斯"  card_race="小鸡系" initial="20" growth="4.5" loyal="100" physical="20" wrist="36" staying="13" speed="39" earth="0" water="0" fire="0" wind="100" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="5" revolt="2"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="67">
-		<info tag="main" card_name="火鸡"  card_race="小鸡系" initial="17" growth="4.5" physical="19" wrist="37" staying="15" speed="37" earth="0" water="0" fire="30" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="3" revolt="1"/>
+		<info tag="main" card_name="火鸡"  card_race="小鸡系" initial="17" growth="4.5" loyal="100" physical="19" wrist="37" staying="15" speed="37" earth="0" water="0" fire="30" wind="70" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="3" revolt="1"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="68">
-		<info tag="main" card_name="拉可拉斯"  card_race="猪头鱼系" initial="23" growth="4.5" physical="37" wrist="32" staying="22" speed="20" earth="0" water="70" fire="30" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="拉可拉斯"  card_race="猪头鱼系" initial="23" growth="4.5" loyal="100" physical="37" wrist="32" staying="22" speed="20" earth="0" water="70" fire="30" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="69">
-		<info tag="main" card_name="达伊诺洛斯"  card_race="猪头鱼系" initial="24" growth="4.5" physical="37" wrist="37" staying="22" speed="21" earth="0" water="50" fire="50" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="达伊诺洛斯"  card_race="猪头鱼系" initial="24" growth="4.5" loyal="100" physical="37" wrist="37" staying="22" speed="21" earth="0" water="50" fire="50" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="70">
-		<info tag="main" card_name="阿利给洛斯"  card_race="猪头鱼系" initial="26" growth="4.5" physical="35" wrist="33" staying="26" speed="17" earth="50" water="50" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="阿利给洛斯"  card_race="猪头鱼系" initial="26" growth="4.5" loyal="100" physical="35" wrist="33" staying="26" speed="17" earth="50" water="50" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="71">
-		<info tag="main" card_name="萨美洛斯"  card_race="猪头鱼系" initial="20" growth="4.5" physical="36" wrist="33" staying="20" speed="20" earth="0" water="100" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="萨美洛斯"  card_race="猪头鱼系" initial="20" growth="4.5" loyal="100" physical="36" wrist="33" staying="20" speed="20" earth="0" water="100" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
 	</hero>
 	<hero card_id="72">
-		<info tag="main" card_name="史多拉奇顿"  card_race="猪头鱼系" initial="21" growth="4.5" physical="38" wrist="35" staying="24" speed="20" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
+		<info tag="main" card_name="史多拉奇顿"  card_race="猪头鱼系" initial="21" growth="4.5" loyal="100" physical="38" wrist="35" staying="24" speed="20" earth="20" water="80" fire="0" wind="0" poison="0" benumb="0" sleep="0" landification="0" wine="0" chaos="0" violence="0" revolt="5"/>
 		<info tag="skill">
 			<skill skill="1" skill_id="1001" skill_unlock_color="1"/>
 		</info>
